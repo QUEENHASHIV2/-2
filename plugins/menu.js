@@ -49,16 +49,16 @@ cmd({
         'forwardingScore': 0x3e7,
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': '120363352224008317@newsletter',
-          'newsletterName': "SOBIAMD",
+          'newsletterJid': '120363378635880298@newsletter',
+          'newsletterName': "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐕2",
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
-          'title': "SOBIA-MD",
+          'title': "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐕2",
           'body': '' + _0x3a7ecc,
           'mediaType': 0x1,
-          'sourceUrl': 'https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s',
-          'thumbnailUrl': "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+          'sourceUrl': 'https://whatsapp.com/channel/0029VazvvpC0LKZFqbPw8D0p',
+          'thumbnailUrl': "https://i.ibb.co/nWJqfPb/mrgmax.jpg",
           'renderLargerThumbnail': true,
           'showAdAttribution': true
         }
